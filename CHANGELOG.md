@@ -6,4 +6,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
 - Initial commit of demo website content with empty landing page and a Cattleya page.
+- Added *favicon.ico*
