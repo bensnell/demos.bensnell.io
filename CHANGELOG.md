@@ -10,3 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial commit of demo website content with empty landing page and a Cattleya page.
 - Added *favicon.ico*
 - Updated Cattleya page to accept a `composition` parameter in the url like `?composition=still-life`.
+- Added Cattleya demos `rendering` and `flower-shape`.
